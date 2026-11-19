@@ -55,7 +55,7 @@ Everything operates locally, keeping your projects and version history under you
 - Return to a known working state.
 - Simplified rollback workflow.
 
-### 🖥️ Modern Desktop Experience
+### Modern Desktop Experience
 - Professional borderless dark interface.
 - Integrated file manager and dashboard.
 - Hierarchical project navigation.
