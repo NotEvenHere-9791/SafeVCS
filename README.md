@@ -25,31 +25,31 @@ Everything operates locally, keeping your projects and version history under you
 
 ## Key Features
 
-### ⚡ Reliable Data Protection
+### Reliable Data Protection
 - Atomic file operations designed to minimize the risk of data corruption.
 - Power-interruption-conscious save mechanisms.
 - Reliable background synchronization.
 - Automatic workspace protection.
 
-### 🔄 Intelligent Auto-Save
+### Intelligent Auto-Save
 - Background monitoring of project changes.
 - Debounced automatic snapshots.
 - Optimized synchronization to reduce unnecessary file operations.
 - Manual synchronization whenever required.
 
-### 📦 Complete Workspace Preservation
+### Complete Workspace Preservation
 - Comprehensive project file and folder preservation.
 - Support for source code, scripts, binaries, assets, and configuration files.
 - Preservation of hidden files and nested directories.
 - Independent version snapshots.
 
-### 🔒 Isolated Version Management
+### Isolated Version Management
 - Automatically locks previous versions after committing.
 - Maintains a dedicated active working version.
 - Preserves historical project states.
 - Helps prevent unintended modifications to committed versions.
 
-### ⏪ One-Command Version Recovery
+### One-Command Version Recovery
 - Restore previous project versions.
 - Recover from accidental file modifications or deletions.
 - Return to a known working state.
@@ -63,7 +63,7 @@ Everything operates locally, keeping your projects and version history under you
 - Adaptive interface font scaling.
 - Dedicated application settings.
 
-### 🌐 Global Command-Line Integration
+### Global Command-Line Integration
 - Convenient `svcs` terminal commands.
 - Integrated with Windows system PATH.
 - Compatible with common development terminals, including PowerShell and VS Code terminals.
