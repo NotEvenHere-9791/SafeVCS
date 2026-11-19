@@ -309,7 +309,7 @@ SafeVCS Studio is proprietary and confidential software.
 
 Unauthorized copying, redistribution, modification, reverse engineering, or commercial exploitation of this software or its compiled binaries is prohibited, except as expressly permitted by the applicable license.
 
-For complete licensing information, refer to [LICENSE.txt](LICENSE.txt).
+For complete licensing information, refer to [LICENSE.txt].
 
 ---
 
